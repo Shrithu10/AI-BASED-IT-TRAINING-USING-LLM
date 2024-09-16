@@ -1,13 +1,13 @@
-#AI-Based IT Training System
+# AI-Based IT Training System
 **Associated with:** Keshav Memorial Institute of Technology
 **Project Duration:** October 2023 – February 2024
 
-#Overview
+# Overview
 This AI-based IT Training System is a self-paced learning platform designed to cater to individual learning preferences. It provides an adaptive and engaging learning experience through the use of advanced AI models (Gemini and AI21 Studio) fine-tuned for prompt engineering. Learners receive personalized content, quizzes, coding exercises, and real-time feedback based on their progress.
 
 The project is built using Node.js, React.js, Python, and MongoDB (NoSQL database) and follows a monolithic architecture for easier maintenance and deployment.
 
-#Features
+# Features
 1. **Personalized Learning Path**
 Each user’s learning journey is customized based on their performance and progress.
 The system adapts to the individual’s learning style and mistakes by providing alternative solutions, explanations, and new exercises.
@@ -25,7 +25,7 @@ The AI evaluates the user’s learning patterns and adapts the content according
 Chatbot Assistant: A chatbot, powered by AI, helps users by answering their queries and providing guidance throughout the learning process.
 Practice Codes: Users are provided with practical coding exercises tailored to their progress and mistakes.
 Video Recommendations: Curated video tutorials based on user activity to enhance understanding of complex topics.
-6. Non-Relational Database (MongoDB) for Scalability
+6.**Non-Relational Database** (MongoDB) for Scalability
 MongoDB manages user progress, learning content, quizzes, and coding exercises, providing efficient data retrieval and management.
 Allows for easy scalability and adaptability of the system to accommodate large numbers of users.
 **Technologies Used**
@@ -62,7 +62,7 @@ AI API Keys (For Gemini and AI21 Studio)
 **Multi-language Support:** Expanding the platform to support multiple languages for a broader audience.
 **Collaborative Learning:** Enable users to collaborate in teams for group-based learning experiences.
 
-#Project Images:
+# Project Images:
 
 ![image](https://github.com/user-attachments/assets/5b7f52e1-5105-4f7a-8a7b-aa540d549550)
 
